@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supplyworks.github.io/Checkers/sitemap.xml
